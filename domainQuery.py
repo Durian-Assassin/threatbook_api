@@ -8,7 +8,7 @@ import hashlib
 import time
 
 # The apikey.
-API_KEY = "e38af0617468435eb3ce13ab5c36dc1942c6f3235f884aed9cd044a0a4da3503"
+API_KEY = "*******************"
 
 class ThreatBook(object):
     def __init__(self, api_key):
