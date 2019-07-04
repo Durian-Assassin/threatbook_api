@@ -1,3 +1,4 @@
 www.baidu.com
 www.google.com
 www.bing.com
+www.sina.com
